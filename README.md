@@ -2,7 +2,7 @@
 
 # 🧠 Curupira – Scanner Avançado de Segurança Web
 
-Curupira é uma ferramenta de código aberto desenvolvida em Python 3 que realiza varreduras automatizadas em aplicações web para identificar vulnerabilidades comuns, como XSS, SQL Injection, Command Injection, SSRF, XXE, além de detectar arquivos sensíveis e diretórios administrativos expostos.
+Curupira é uma ferramenta de código aberto desenvolvida pela SecBras Research que realiza varreduras automatizadas em aplicações web para identificar vulnerabilidades comuns, como XSS, SQL Injection, Command Injection, SSRF, XXE, além de detectar arquivos sensíveis e diretórios administrativos expostos.
 
 ---
 
