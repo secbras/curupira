@@ -84,3 +84,4 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 ---
 
+**Desenvolvido pela SecBras Research**
